@@ -1,0 +1,569 @@
+{
+  "status": {
+    "requestId": "d92dda6d-b370-4bd3-8fb7-3380d694394e",
+    "httpStatusCode": 200,
+    "httpStatusDesc": "OK",
+    "requestTs": "2021-11-23 15:54:41"
+  },
+  "response": {
+    "departmentHierarchy": {
+      "Store Navigation and": {
+        "All": [],
+        "Store Directories": [],
+        "Corporate Signs": [],
+        "Corporate Team Depot": []
+      },
+      "Bath": {
+        "All": [],
+        "Faucets": [],
+        "Fixtures": [
+          "1 & 2 Piece Toilets",
+          "Laundry Tubs",
+          "Pedestals & Sinks",
+          "Toilet Seats",
+          "Tub & Shower Doors"
+        ],
+        "Bath Accessories": [
+          "Bath Hardware"
+        ],
+        "Vanities": [
+          "Medicine Cabinets",
+          "S/o Vanities",
+          "Vanity Combos"
+        ]
+      },
+      "Storage Buildings": {
+        "Storage Buildings": []
+      },
+      "Millwork": {
+        "All": [],
+        "Mouldings": [],
+        "Millwork Specialties": [
+          "Mantels"
+        ],
+        "Patio Doors": [],
+        "Interior Doors": [],
+        "Exterior Doors": [],
+        "Windows": [
+          "Shutter/awnings"
+        ],
+        "Windows (SFI)": []
+      },
+      "Kitchens": {
+        "All": [],
+        "Faucets": [
+          "Kitchens",
+          "Pull Out Kitchen Fau",
+          "Shower Heads",
+          "Tub & Shower"
+        ],
+        "Kitchen Sinks": [
+          "Composite",
+          "Disposers/access",
+          "Laundry Tubs",
+          "S/O Sinks",
+          "Stainless Steel"
+        ],
+        "Cooking": [],
+        "Counter Tops": [
+          "Counter Tops"
+        ],
+        "Countertops (F&I)": [],
+        "Kitchen Accessories": [],
+        "Home Comfort": [
+          "Air Purifiers"
+        ],
+        "In Stock Kitchen & A": [
+          "Rta Finished Cabinet"
+        ]
+      },
+      "Forms Guides and Fol": {
+        "All": [],
+        "Operations Forms": [],
+        "Operations Folders": []
+      },
+      "Building Materials": {
+        "All": [],
+        "Metal Products": [
+          "Builders Hardware"
+        ],
+        "Insulation": [
+          "Fiberglass Batts",
+          "Foam",
+          "Sheathings"
+        ],
+        "Ceilings": [
+          "Panels"
+        ],
+        "Fencing": [
+          "Chain Link",
+          "Farm Fence/accessori",
+          "Wire"
+        ],
+        "Gypsum": [
+          "Metal Studs/lathe",
+          "Tools"
+        ],
+        "Ventilation": [],
+        "Concrete": [
+          "Additives Sealants",
+          "Cement/aggregates",
+          "Concrete Forming Pro",
+          "Concrete Mixes",
+          "Concrete Repair",
+          "Mortar/masonry/stucc",
+          "Tools"
+        ],
+        "Roofing": [
+          "20 Year Shingles",
+          "Accessories",
+          "Driveway Sealers",
+          "Flashing",
+          "Metal Gutter",
+          "Strip Shingles",
+          "Vinyl Gutter"
+        ],
+        "Siding": [
+          "Aluminum Soffit",
+          "Vinyl"
+        ],
+        "Ladders": [
+          "Aluminum Extension",
+          "Aluminum Step",
+          "Attic Ladders",
+          "Multiposition Ladder"
+        ]
+      },
+      "Lighting": {
+        "All": [],
+        "Exterior Decorative": [
+          "Ceiling Mount/Hangin"
+        ],
+        "Ceiling Fans": [],
+        "Recessed Lighting": [],
+        "Fluorescent Lighting": [
+          "Strips"
+        ],
+        "Interior Lighting": [
+          "Sconces/Wall"
+        ],
+        "Track Lighting": [
+          "Fixed Track"
+        ],
+        "Landscape Lighting": []
+      },
+      "Installation Service": {
+        "All": [],
+        "Installation Service": []
+      },
+      "Hardware": {
+        "All": [],
+        "Storage Devices": [
+          "Husky Chests/cabinet",
+          "Storage Organizers"
+        ],
+        "Door Locks": [],
+        "Compressors And Air ": [
+          "Air Tools",
+          "Stationary Compresso"
+        ],
+        "Fasteners": [
+          "Construction/frming ",
+          "Deck Screws",
+          "Drywall Screws",
+          "Finish & Brad Nails",
+          "Rope"
+        ],
+        "Fastening Tools": [
+          "Clamps/Vises"
+        ],
+        "Builder's Hardware": [
+          "Cabinet",
+          "Shelf Brackets"
+        ],
+        "Compressors and Air ": [
+          "Air Tools",
+          "Stationary Compresso"
+        ],
+        "Portable Power": [],
+        "Miscellaneous Power": [],
+        "Security/Safety": [
+          "Safes"
+        ],
+        "Pneumatic Fastners": [
+          "16 Ga Nailer",
+          "18 Guage Tools",
+          "Col.18ga Nails/stapl",
+          "Flooring Nailers&sta",
+          "Framing Nailers",
+          "Powder Actuated",
+          "Roof Nailers & Stapl",
+          "Roofing Air Nails/st"
+        ],
+        "Hand Tools": [
+          "Cutting Tools"
+        ]
+      },
+      "Electrical": {
+        "All": [],
+        "Ext": [],
+        "Conduit/boxes/fittin": [
+          "All Metal Fittings",
+          "Emt/rgd/conduit",
+          "Metal Weatherproof",
+          "MetalBoxes/covers/ac",
+          "On Wall Raceway",
+          "PVC Box/covers/acces",
+          "PVC Conduit",
+          "Rigid Conduit/fittin"
+        ],
+        "Portable Air": [
+          "Humidifiers"
+        ],
+        "Communications": [
+          "Wireless Communicati"
+        ],
+        "Home Electronics": [
+          "Audio",
+          "AV Accessories",
+          "Wall Arms"
+        ],
+        "Wiring Devices": [
+          "Ballast/access",
+          "Dimmers",
+          "Lighting Controls",
+          "Plugs/connectors",
+          "Receptacles",
+          "Switches",
+          "Wall Plates (Commodi",
+          "Wall Plates (decorat"
+        ],
+        "Safety/security": [
+          "Home Security",
+          "Smoke/fire/co.detect"
+        ],
+        "Wire": [
+          "Nm/uf"
+        ],
+        "Light Bulbs": [
+          "LED"
+        ],
+        "Control": [
+          "Timers"
+        ],
+        "Portable Heating": [
+          "Ceramic/electric Hea",
+          "Kerosene/propane Hea"
+        ],
+        "Circuit Protect.": [
+          "Breakers",
+          "Electrical Panels"
+        ],
+        "Infrastructure": [
+          "Data Com Access",
+          "Wire"
+        ],
+        "Tools & Accessories": [
+          "Electrical Tools"
+        ]
+      },
+      "Floor Coverings": {
+        "All": [],
+        "Carpeting": [
+          "Level Loop",
+          "S/O Carpet"
+        ],
+        "Organization": [
+          "Closet Accessories",
+          "Garage Storage",
+          "Shelving Hardware",
+          "Steel Fixtures"
+        ],
+        "Area Rugs/mats/rems": [],
+        "Ceramic": [
+          "Ceramic"
+        ],
+        "Hardwood": [
+          "Hardwood"
+        ],
+        "Laminate Flooring": [
+          "Laminate Planks",
+          "Laminate S/O"
+        ],
+        "Tile Set": [
+          "Adhesives",
+          "Tools"
+        ],
+        "Area Rugs/Mats/Rem": [
+          "Scatter Rugs",
+          "Synthetic Rugs"
+        ],
+        "Ceramic Tile": [
+          "13 inch Smaller Floo",
+          "Mosaic",
+          "Stone/slate/quarry/p",
+          "Trims",
+          "Wall/Counter Field T"
+        ],
+        "Vinyl Flooring": [
+          "Vinyl Plank"
+        ],
+        "Wood Flooring": [
+          "3/4inch Prefinished ",
+          "Engineered Click",
+          "S/O Wood Flooring",
+          "Wood Adhes/access/to"
+        ]
+      },
+      "Plumbing": {
+        "All": [],
+        "Irrigation": [
+          "Irrigation"
+        ],
+        "Water Treatments": [],
+        "Pumps": [
+          "Utility Pumps"
+        ],
+        "Air Circulatiocces.": [
+          "Air Filters",
+          "Baseboard Heaters",
+          "Bath Fans",
+          "Register/grills",
+          "Thermostats"
+        ],
+        "Water Heaters": [],
+        "Pipe and Fittings": [],
+        "Plumbing Repair & Re": [
+          "Drain Openers/chemic",
+          "Toilet Repair & Repl"
+        ]
+      },
+      "Decor": {
+        "All": [],
+        "Wall Decor": [
+          "Mirrors",
+          "Photo Frames/access."
+        ],
+        "Soft Window Trtmnt": [
+          "Stock Misc Drapery"
+        ],
+        "Interior Furniture": [],
+        "Hard Window": [
+          "Aluminum Cut",
+          "Faux Wood Blinds",
+          "Natural Shades",
+          "Pleated Shades",
+          "Roller Shades",
+          "Stock Fauxwood Shutt",
+          "Verticals Stock",
+          "Vinyl Stock",
+          "Wood Blinds"
+        ],
+        "S/O Window Coverings": [
+          "S/O Roman Shades"
+        ],
+        "Wallpaper Adhesive/t": [],
+        "Stock Wallpaper": [
+          "Misc Wallpaper",
+          "Sidewalls-Florals",
+          "Sidewalls-stripes"
+        ],
+        "Window Film": [],
+        "Drapery Hardware": [],
+        "Hard Window Covering": []
+      },
+      "Tool Rental": {
+        "All": [],
+        "Tool Rental Signs": []
+      },
+      "Paint": {
+        "All": [],
+        "Ext": [
+          "Ext Clrs/spar/specia",
+          "Ext Semi Transp stai",
+          "Exterior Solid Stain",
+          "Watersealers"
+        ],
+        "Tape": [
+          "Painters Masking Tap",
+          "Speciality Tape"
+        ],
+        "Interior Stains": [],
+        "Power-paint": [
+          "Power Rollers",
+          "Pro Sprayers"
+        ],
+        "Patching": [
+          "Bag Goods"
+        ],
+        "Interior Paint": [
+          "Satin",
+          "Semi Gloss"
+        ],
+        "Adhesives": [
+          "Gen Purpose",
+          "Wood Glues"
+        ],
+        "Applicators": [],
+        "Interior/exterior": [
+          "Primers"
+        ],
+        "Solvents/removers/cl": [
+          "Cleaners",
+          "Removers-solvent",
+          "Solvents"
+        ],
+        "Sheeting/tarps/bucke": [
+          "Drop Cloths-canvas"
+        ],
+        "Caulks": [
+          "Silicones"
+        ]
+      },
+      "Human Resources": {
+        "All": [],
+        "Human Resources Form": [],
+        "Human Resources Trai": [],
+        "Human Resources Recr": [],
+        "Human Resources Prom": [],
+        "Human Resources Badg": []
+      },
+      "Indoor Garden": {
+        "All": [],
+        "Power Pressure Washe": [
+          "Electric"
+        ],
+        "Watering": [
+          "Hose"
+        ],
+        "Power pressure washe": [
+          "Electric"
+        ],
+        "Tools": [
+          "Axes Mauls Sledges",
+          "Digging",
+          "Hand Trucks",
+          "Leaf Rakes",
+          "Pruners"
+        ],
+        "Cleaning": [
+          "Air Care",
+          "Carpet Cleaning Chem",
+          "Cleaning Chemicals",
+          "Cleaning Tool/access",
+          "Degreasers",
+          "Hrd Srfce Flr Care C",
+          "Outdoor Trash Cans",
+          "Refuse Containers",
+          "Towels/sponges",
+          "Window Cleaning Chem"
+        ],
+        "Power Equipment": [
+          "Mower Accessories",
+          "Riding Mowers",
+          "Snow-Throwers",
+          "Tractor Attachments"
+        ],
+        "BBQ Grill": [
+          "BBQ Grills"
+        ],
+        "Patio": [
+          "Interior Furniture",
+          "Outdoor Furniture"
+        ],
+        "Chemicals": [
+          "Area Repell/mosq Con",
+          "Flying/wasp & Hornet",
+          "Indoor Insect Contro",
+          "Mosquito Traps",
+          "Non-selective Herbic",
+          "Outdoor Insect Contr",
+          "Rodent Control"
+        ],
+        "Fireplace": []
+      },
+      "Outdoor Garden": {
+        "All": [],
+        "Lawn Accessories": [
+          "Landscape Fabric"
+        ],
+        "Planters": [
+          "Accessories/watering"
+        ],
+        "Landscape": [
+          "Potting/Specialty So"
+        ],
+        "Live Goods": [
+          "Annuals",
+          "Ground Cover",
+          "Perennials",
+          "Roses",
+          "Shade/Ornamental Tre",
+          "Shrub/landscape",
+          "Tropicals"
+        ],
+        "Seed": [
+          "Bird Houses/Feeders",
+          "Repair"
+        ],
+        "Fertilizers": [
+          "All purpose"
+        ]
+      },
+      "HAV1": {
+        "CL1": [
+          "N/A"
+        ]
+      },
+      "Health and Safety": {
+        "All": [],
+        "Health and Safety RD": [],
+        "Health and Safety Si": []
+      },
+      "Offshelf": {
+        "All": [],
+        "Signs": [],
+        "Pallet Wrap": []
+      },
+      "Contractor Services": {
+        "All": []
+      },
+      "Fixtures and Sign Ho": {
+        "All": [],
+        "Hardware POP Hardwar": [],
+        "Hardware Holders": [],
+        "Hardware Sidecaps": []
+      },
+      "Lumber": {
+        "All": [],
+        "Playsets": [
+          "S/O Playsets"
+        ],
+        "Composition": [
+          "Particle Board",
+          "Underlayment"
+        ],
+        "Landscape": [
+          "Lattice"
+        ],
+        "Boards": [
+          "Trim Boards"
+        ],
+        "Fencing": [
+          "Aluminum Fencing",
+          "Gates",
+          "Plastic",
+          "Post/Rail",
+          "Pressure Treated Pan"
+        ],
+        "Plywood": [
+          "Hardwood"
+        ],
+        "Melamine": [
+          "Melamine"
+        ],
+        "Dimensional": []
+      }
+    }
+  }
+}
